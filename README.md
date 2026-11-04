@@ -2,10 +2,12 @@
 
 <img alt="Complete Front End" src=".github/banner.svg" width="100%">
 
+Hand-written HTML and CSS user-feedback form, built without a framework.
+
 <br>
 
 
-![language](https://img.shields.io/badge/language-CSS-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2024--10--31-1F2937?style=flat-square&labelColor=111827)
+![language](https://img.shields.io/badge/language-CSS-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2026--11--04-1F2937?style=flat-square&labelColor=111827)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-CSS project with 2 HTML pages and 2 stylesheets: `index1`. Also checked in: 1 markdown document. The sections below are read from the repository itself, 6 tracked files as of 2024-10-31.
+A small static front end: a user-feedback form in plain HTML and CSS under a `userFeedback/` directory, with no framework or build step.
 
 <div align="center">
 
